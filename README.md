@@ -58,7 +58,7 @@ generate pie chart of submission categories
 generate stats image
 ```
 
-## sbb-requiredSEgments
+## sbb-requiredSegments
 ### required segment userscript for sb.ltn.fi
 URL: https://gist.github.com/mchangrh/603db65fd7dfc177a0eb21cef4ca8270/raw/sbltnfi-requiredSegments.user.js  
 GH: https://gist.github.com/mchangrh/603db65fd7dfc177a0eb21cef4ca8270  
