@@ -2,13 +2,13 @@
 ### Discord bot for interacting with SB API
 
 URL: [sb-slash.mchang.workers.dev](https://sb-slash.mchang.workers.dev)  
-GitHub: [github.com/mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)  
+GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)  
 [Invite To Discord](https://sb.mchang.xyz/invite)
 
 ## sb-lookup
 ## SponsorBlock UUID to YouTube link
 URL: [sb.mchang.xyz/](https://sb.mchang.xyz)  
-GitHub: [github.com/mchangrh/sb-lookup](https://github.com/mchangrh/sb-lookup)  
+GitHub: [mchangrh/sb-lookup](https://github.com/mchangrh/sb-lookup)  
 Endpoints:
 ```
 /<uuid> - redirect to YouTube link
