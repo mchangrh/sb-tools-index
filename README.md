@@ -114,6 +114,11 @@ NPM: https://www.npmjs.com/package/sb-category-type
 [URL](https://gist.github.com/mchangrh/603db65fd7dfc177a0eb21cef4ca8270/raw/sbltnfi-requiredSegments.user.js) | 
 [Gist](https://gist.github.com/mchangrh/603db65fd7dfc177a0eb21cef4ca8270)  
 
+## sbb-refresh
+### refresh segment userscript for sb.ltn.fi
+[URL](https://gist.github.com/mchangrh/c693f8e1de2b6a5067ae9d5e994f6758/raw/sbltnfi-refresh.user.js) |
+[Gist](https://gist.github.com/mchangrh/c693f8e1de2b6a5067ae9d5e994f6758)
+
 ## sb-mirror
 ### docker images to mirror SB database
 GitHub: [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)  
