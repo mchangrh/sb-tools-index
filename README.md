@@ -1,3 +1,7 @@
+---
+title: mchanagrh's SB tools index
+---
+
 # Index
 [discord](#discord)  
 [static web resources](#static-web-resources)  
@@ -55,7 +59,7 @@ GitHub: [mchangrh/sb-status-chart](https://github.com/mchangrh/sb-status-chart)
 ## sb-mirror
 ### 5 minute mirror of SB database
 HTTPS: [sb-mirror.mchang.xyz](https://sb-mirror.mchang.xyz)  
-RSync: `rsync://sb-mirror.mchang.xyz/sponsorblock`
+RSync: `rsync://mirror.sb.mchang.xyz/sponsorblock`
 
 ## sb-archive
 ### historical archive of SB Database
@@ -68,7 +72,7 @@ GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)
 
 ## sb-status-server
 ### nodejs server for monitoring ping of SponsorBlock server
-URL: [sb-status.mchang.xyz](https://sb-status.mchang.xyz)  
+URL: [status.sb.mchang.xyz](https://sb-status.mchang.xyz)  
 GitHub: [mchangrh/sb-status-server](https://github.com/mchangrh/sb-status-server)  
 Endpoints:
 ```
@@ -79,7 +83,7 @@ Endpoints:
 
 ## sb-userstat-img
 ### generate userstat images
-URL: [sb-img.mchang.xyz](https://sb-img.mchang.xyz)  
+URL: [img.sb.mchang.xyz](https://img.sb.mchang.xyz)  
 GitHub: [mchangrh/sb-userstat-img](https://github.com/mchangrh/sb-userstat-img)  
 Endpoints: 
 ```
