@@ -40,6 +40,11 @@ times=<number of times to hash> (default 5000)
 algo=<algorithm to use> (default SHA-256)
 ```
 
+## sb-logos
+### derivative SponsorBlock logos
+URL: [sb-logo.mchang.workers.dev](https://sb-logo.mchang.workers.dev)
+GitHub: [mchangrh/sb-logos](https://github.com/mchangrh/sb-logos)
+
 # static web resources
 
 ## sb port matrix
