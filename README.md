@@ -5,6 +5,7 @@ title: mchangrh's SB tools index
 # Index
 [discord](#discord)  
 [static web resources](#static-web-resources)  
+[userscripts](#userscripts)  
 [serverless functions](#serverless-functions)  
 [http servers](#http-servers)  
 [misc](#misc)
@@ -17,9 +18,25 @@ URL: [sb-slash.mchang.workers.dev](https://sb-slash.mchang.workers.dev)
 GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)  
 [Invite To Discord](https://sb.mchang.xyz/invite)
 
+# userscripts
+[Gist](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338)
+
+## sbltnfi
+### Force refresh a single segment
+[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-refresh.user.js)
+
+### Add sb.mchang.xyz link to entries
+[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-requiredSegments.user.js)
+
+### Remove trailing zeroes from start, end and length times
+[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-imprecise-times.user.js)
+
+### Fork of NanoByte's clickable starttime Script with more aggressive videoID searching
+[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-clickable-starttime-fork.user.js)
+
 # serverless functions
 ## sb-lookup
-## SponsorBlock UUID to YouTube link
+### SponsorBlock UUID to YouTube link
 URL: [sb.mchang.xyz/](https://sb.mchang.xyz)  
 GitHub: [mchangrh/sb-lookup](https://github.com/mchangrh/sb-lookup)  
 Endpoints:
@@ -117,16 +134,6 @@ Endpoints:
 ### nodejs constants for category types
 GitHub: [mchangrh/sb-category-type](https://github.com/mchangrh/sb-category-type)
 NPM: https://www.npmjs.com/package/sb-category-type
-
-## sbb-requiredSegments
-### required segment userscript for sb.ltn.fi
-[URL](https://gist.github.com/mchangrh/603db65fd7dfc177a0eb21cef4ca8270/raw/sbltnfi-requiredSegments.user.js) | 
-[Gist](https://gist.github.com/mchangrh/603db65fd7dfc177a0eb21cef4ca8270)  
-
-## sbb-refresh
-### refresh segment userscript for sb.ltn.fi
-[URL](https://gist.github.com/mchangrh/c693f8e1de2b6a5067ae9d5e994f6758/raw/sbltnfi-refresh.user.js) |
-[Gist](https://gist.github.com/mchangrh/c693f8e1de2b6a5067ae9d5e994f6758)
 
 ## sb-mirror
 ### docker images to mirror SB database
