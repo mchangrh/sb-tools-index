@@ -4,9 +4,10 @@ title: mchangrh's SB tools index
 
 # Index
 [discord](#discord)  
-[static web resources](#static-web-resources)  
+[client](#client)
 [userscripts](#userscripts)  
 [serverless functions](#serverless-functions)  
+[static web resources](#static-web-resources)  
 [http servers](#http-servers)  
 [misc](#misc)
 
@@ -17,6 +18,11 @@ title: mchangrh's SB tools index
 URL: [sb-slash.mchang.workers.dev](https://sb-slash.mchang.workers.dev)  
 GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)  
 [Invite To Discord](https://sb.mchang.xyz/invite)
+
+# client
+## sb.js - SB userscript/ bookmarklet
+[GitHub](https://github.com/mchangrh/sb.js)
+[GitHub Pages](https://mchangrh.github.io/sb.js/)
 
 # userscripts
 [Gist](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338)
