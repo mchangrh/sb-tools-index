@@ -4,7 +4,7 @@ title: mchangrh's SB tools index
 
 # Index
 [discord](#discord)  
-[client](#client)
+[client](#client)  
 [userscripts](#userscripts)  
 [serverless functions](#serverless-functions)  
 [static web resources](#static-web-resources)  
@@ -21,24 +21,24 @@ GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)
 
 # client
 ## sb.js - SB userscript/ bookmarklet
-[GitHub](https://github.com/mchangrh/sb.js)
-[GitHub Pages](https://mchangrh.github.io/sb.js/)
+[GitHub](https://github.com/mchangrh/sb.js)  
+[GitHub Pages](https://mchangrh.github.io/sb.js/)  
 
 # userscripts
 [Gist](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338)
 
 ## sbltnfi
-### Force refresh a single segment
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-refresh.user.js)
+Force refresh a single segment [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-refresh.user.js)
 
-### Add sb.mchang.xyz link to entries
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-requiredSegments.user.js)
+Add sb.mchang.xyz link to entries [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-requiredSegments.user.js)
 
-### Remove trailing zeroes from start, end and length times
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-imprecise-times.user.js)
+Remove trailing zeroes from start, end and length times [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-imprecise-times.user.js)
 
-### Fork of NanoByte's clickable starttime Script with more aggressive videoID searching
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-clickable-starttime-fork.user.js)
+Fork of NanoByte's clickable starttime Script with more aggressive videoID searching [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-clickable-starttime-fork.user.js)
+
+Fork of Deedit's sb.ltn.fi/video/-Opener with preset filters [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-preset-video-link.user.js)
+
+Replaces or redirct all sb.ltn.fi links to be pre-loaded with filters [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-preset-replace.user.js)
 
 # serverless functions
 ## sb-lookup
@@ -48,7 +48,7 @@ GitHub: [mchangrh/sb-lookup](https://github.com/mchangrh/sb-lookup)
 Endpoints:
 ```
 /<uuid> - redirect to YouTube link
-/<videoid>/<partialuuid> - partial uuid lookup
+/<uuid>/<option> - option can be - db | info | video 
 ?api=false - if truthy, return JSON instead of redirect 
 ```
 
@@ -65,7 +65,7 @@ algo=<algorithm to use> (default SHA-256)
 
 ## sb-logos
 ### derivative SponsorBlock logos
-URL: [sb-logo.mchang.workers.dev](https://sb-logo.mchang.workers.dev)
+URL: [sb-logo.mchang.workers.dev](https://sb-logo.mchang.workers.dev)  
 GitHub: [mchangrh/sb-logos](https://github.com/mchangrh/sb-logos)
 
 # static web resources
@@ -86,12 +86,12 @@ GitHub: [mchangrh/sb-status-chart](https://github.com/mchangrh/sb-status-chart)
 
 ## sb-mirror
 ### 5 minute mirror of SB database
-HTTPS: [sb-mirror.mchang.xyz](https://sb-mirror.mchang.xyz)  
+HTTPS: [mirror.sb.mchang.xyz](https://mirror.sb.mchang.xyz)  
 RSync: `rsync://mirror.sb.mchang.xyz/sponsorblock`
 
 ## sb-archive
 ### historical archive of SB Database
-HTTPS (CloudFlare): [https://sb-archive.mchang.xyz](https://sb-archive.mchang.xyz)  
+HTTPS (CloudFlare): [https://archive.sb.mchang.xyz](https://sb-archive.mchang.xyz)  
 HTTP (Direct): [http://qc.mchang.xyz](http://qc.mchang.xyz)  
 RSync: `rsync://qc.mchang.icu/sponsorblock`  
 GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)
@@ -100,7 +100,7 @@ GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)
 
 ## sb-status-server
 ### nodejs server for monitoring ping of SponsorBlock server
-URL: [status.sb.mchang.xyz](https://sb-status.mchang.xyz)  
+URL: [status.sb.mchang.xyz](https://status.sb.mchang.xyz)  
 GitHub: [mchangrh/sb-status-server](https://github.com/mchangrh/sb-status-server)  
 Endpoints:
 ```
@@ -138,7 +138,7 @@ Endpoints:
 
 ## sb-category-type
 ### nodejs constants for category types
-GitHub: [mchangrh/sb-category-type](https://github.com/mchangrh/sb-category-type)
+GitHub: [mchangrh/sb-category-type](https://github.com/mchangrh/sb-category-type)  
 NPM: https://www.npmjs.com/package/sb-category-type
 
 ## sb-mirror
