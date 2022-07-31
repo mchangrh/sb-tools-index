@@ -40,7 +40,7 @@ Fork of Deedit's sb.ltn.fi/video/-Opener with preset filters [Install](https://g
 
 Replaces or redirct all sb.ltn.fi links to be pre-loaded with filters [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-preset-replace.user.js)
 
-### Add Discord badge to any users that are registered with sb-slash
+Add Discord badge to any users that are registered with sb-slash
 [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-discord-badge.user.js)
 
 # serverless functions
