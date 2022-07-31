@@ -40,6 +40,9 @@ GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)
 ### Fork of NanoByte's clickable starttime Script with more aggressive videoID searching
 [Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-clickable-starttime-fork.user.js)
 
+### Add Discord badge to any users that are registered with sb-slash
+[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-discord-badge.user.js)
+
 # serverless functions
 ## sb-lookup
 ### SponsorBlock UUID to YouTube link
