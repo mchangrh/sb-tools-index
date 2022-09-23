@@ -112,6 +112,12 @@ HTTP (Direct): [http://qc.mchang.xyz](http://qc.mchang.xyz)
 RSync: `rsync://qc.mchang.icu/sponsorblock`  
 GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)
 
+## sb gen ID
+### generate a random privateID & backup package
+URL: [id.sb.mchang.xyz](https://id.sb.mchang.xyz)
+GH Pages: [mchangrh/sb-idgen](https://mchangrh.github.io/sb-idgen/)
+GitHub: [mchangrh/sb-idgen](https://github.com/mchangrh/sb-idgen)
+
 # http servers
 
 ## sb-status-server
