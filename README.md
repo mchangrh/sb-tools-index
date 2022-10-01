@@ -24,37 +24,7 @@ GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)
 [GitHub](https://github.com/mchangrh/sb.js)  
 [GitHub Pages](https://mchangrh.github.io/sb.js/)  
 
-# userscripts
-[Gist](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338)
-
-## sbltnfi
-Force refresh a single segment
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-refresh.user.js)
-
-Add sb.mchang.xyz link to entries
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-requiredSegments.user.js)
-
-Remove trailing zeroes from start, end and length times
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-imprecise-times.user.js)
-
-Fork of NanoByte's clickable starttime Script with more aggressive videoID searching
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-clickable-starttime-fork.user.js)
-
-Fork of Deedit's sb.ltn.fi/video/-Opener with preset filters
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-preset-video-link.user.js)
-
-Replaces or redirct all sb.ltn.fi links to be pre-loaded with filters
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-preset-replace.user.js)
-
-Add Discord badge to any users that are registered with sb-slash
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-discord-badge.user.js)
-
-Fork of TheJzoli's videotitles with searching done through innertube
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/sbltnfi-it-videotitle.user.js)
-
-## youtube
-Adds a big red warning to the top of the screen when requiredSegment(s) are present
-[Install](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338/raw/yt-warn-reqseg.user.js)
+# [Userscripts](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338)
 
 # serverless functions
 ## sb-lookup
@@ -114,9 +84,9 @@ GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)
 
 ## sb gen ID
 ### generate a random privateID & backup package
-URL: [id.sb.mchang.xyz](https://id.sb.mchang.xyz)
-GH Pages: [mchangrh/sb-idgen](https://mchangrh.github.io/sb-idgen/)
-GitHub: [mchangrh/sb-idgen](https://github.com/mchangrh/sb-idgen)
+URL: [id.sb.mchang.xyz](https://id.sb.mchang.xyz)  
+GH Pages: [mchangrh/sb-idgen](https://mchangrh.github.io/sb-idgen/)  
+GitHub: [mchangrh/sb-idgen](https://github.com/mchangrh/sb-idgen)  
 
 # http servers
 
