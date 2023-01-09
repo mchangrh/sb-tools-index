@@ -24,7 +24,7 @@ GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)
 [GitHub](https://github.com/mchangrh/sb.js)  
 [GitHub Pages](https://mchangrh.github.io/sb.js/)  
 
-# [Userscripts](https://gist.github.com/mchangrh/9507604353e37b6abc2f7f6b3c6e1338)
+# [Userscripts](https://github.com/mchangrh/uscripts/tree/main/sbltnfi#readme)
 
 # serverless functions
 ## sb-lookup
