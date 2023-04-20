@@ -141,5 +141,15 @@ GitHub: [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
 [GHCR](https://github.com/mchangrh/sb-mirror/pkgs/container/sb-mirror):
 `docker pull ghcr.io/mchangrh/sb-mirror`
 
+## sb-wiki
+### docker image and config for SponsorBlock Wiki
+GitHub: [mchangrh/sb-wiki](https://github.com/mchangrh/sb-wiki)  
+[GHCR](https://github.com/users/mchangrh/packages/container/package/sb-wiki)
+`docker pull ghcr.io/mchangrh/sb-wiki:1.39`
+
+## sb-wiki-mirror
+### docker-compose to mirror the SponsorBlock Wiki
+GitHub: [mchangrh/sb-wiki-mirror](https://github.com/mchangrh/sb-wiki-mirror)  
+[GH Pages](https://mchangrh.github.io/sb-wiki-mirror/)
 
 ![SponsorBlock](./sponsorblock.png)
