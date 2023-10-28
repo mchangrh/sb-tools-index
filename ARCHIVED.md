@@ -15,3 +15,9 @@ algo=<algorithm to use> (default SHA-256)
 ### derivative SponsorBlock logos
 URL: [sb-logo.mchang.workers.dev](https://sb-logo.mchang.workers.dev)  
 GitHub: [mchangrh/sb-logos](https://github.com/mchangrh/sb-logos)
+
+# static web resources
+## sb-archive
+### historical archive of SB Database
+[removed]  
+GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)

@@ -17,7 +17,7 @@ title: mchangrh's SB tools index
 
 URL: [sb-slash.mchang.workers.dev](https://sb-slash.mchang.workers.dev)  
 GitHub: [mchangrh/sb-slash](https://github.com/mchangrh/sb-slash)  
-[Invite To Discord](https://sb.mchang.xyz/invite)
+[Invite To Discord](https://sb-slash.mchang.workers.dev/invite)
 
 # client
 ## sb.js - SB userscript/ bookmarklet
@@ -42,33 +42,25 @@ Endpoints:
 
 ## sb port matrix
 ### ports/libraries for sponsorblock and supported categories
-URL: [mchang.icu/sb-matrix](https://mchang.icu/sb-matrix)
+URL: [sb.mchang.xyz/ports](https://sb.mchang.xyz/ports)
 
 ## sb-openapi
 ### openAPI documentation for SB API
-URL: [sb-openapi.mchang.icu](https://sb-openapi.mchang.icu)  
+URL: [openapi.sb.blabdu.de](https://openapi.sb.blabdu.de)  
 GitHub: [mchangrh/sb-openapi](https://github.com/mchangrh/sb-openapi)  
 
 ## sb-status-chart
 ### chart for monitoring sb-status-server
-URL: [mchangrh.github.io/sb-status-chart](https://mchangrh.github.io/sb-status-chart)   
+URL: [graph.sb.blabdu.de](https://graph.sb.blabdu.de)  
 GitHub: [mchangrh/sb-status-chart](https://github.com/mchangrh/sb-status-chart)  
 
 ## sb-mirror
 ### 5 minute mirror of SB database
-HTTPS: [mirror.sb.mchang.xyz](https://mirror.sb.mchang.xyz)  
-RSync: `rsync://mirror.sb.mchang.xyz/sponsorblock`
-
-## sb-archive
-### historical archive of SB Database
-HTTPS (CloudFlare): [https://archive.sb.mchang.xyz](https://sb-archive.mchang.xyz)  
-HTTP (Direct): [http://qc.mchang.xyz](http://qc.mchang.xyz)  
-RSync: `rsync://qc.mchang.icu/sponsorblock`  
-GitHub: [mchangrh/sb-archive](https://github.com/mchangrh/sb-archive)
+HTTPS: [mirror.sb.blabdu.de](https://mirror.sb.blabdu.de)  
+RSync: `rsync://mirror.sb.blabdu.de/sponsorblock`
 
 ## sb gen ID
 ### generate a random privateID & backup package
-URL: [id.sb.mchang.xyz](https://id.sb.mchang.xyz)  
 GH Pages: [mchangrh/sb-idgen](https://mchangrh.github.io/sb-idgen/)  
 GitHub: [mchangrh/sb-idgen](https://github.com/mchangrh/sb-idgen)  
 
@@ -76,7 +68,7 @@ GitHub: [mchangrh/sb-idgen](https://github.com/mchangrh/sb-idgen)
 
 ## sb-status-server
 ### nodejs server for monitoring ping of SponsorBlock server
-URL: [status.sb.mchang.xyz](https://status.sb.mchang.xyz)  
+URL: [status.sb.blabdu.de](https://status.sb.blabdu.de)  
 GitHub: [mchangrh/sb-status-server](https://github.com/mchangrh/sb-status-server)  
 Endpoints:
 ```
@@ -87,7 +79,7 @@ Endpoints:
 
 ## sb-userstat-img
 ### generate userstat images
-URL: [img.sb.mchang.xyz](https://img.sb.mchang.xyz)  
+URL: [img.sb.blabdu.de](https://img.sb.blabdu.de)  
 GitHub: [mchangrh/sb-userstat-img](https://github.com/mchangrh/sb-userstat-img)  
 Endpoints: 
 ```
@@ -129,7 +121,7 @@ GitHub: [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
 ### docker image and config for SponsorBlock Wiki
 GitHub: [mchangrh/sb-wiki](https://github.com/mchangrh/sb-wiki)  
 [GHCR](https://github.com/users/mchangrh/packages/container/package/sb-wiki)
-`docker pull ghcr.io/mchangrh/sb-wiki:1.39`
+`docker pull ghcr.io/mchangrh/sb-wiki:lts`
 
 ## sb-wiki-mirror
 ### docker-compose to mirror the SponsorBlock Wiki
